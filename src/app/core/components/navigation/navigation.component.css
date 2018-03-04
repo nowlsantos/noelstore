@@ -1,0 +1,4 @@
+.dropdown-toggle, .dropdown-menu, .login, .logout {
+    cursor: pointer;
+}
+
